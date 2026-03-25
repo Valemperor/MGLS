@@ -11,6 +11,7 @@ Authors: `<Jianwei Xu>, <Haizhou Wang>`
 - [2026.03] Official repository released.
 
 ## Overview
+![Framework](1.jpg)
 
 MGLS is a malicious user detection framework for movie review platforms. We construct a user-level malicious user dataset, **DMU-Dataset**, and propose a multi-channel graph model with LLM-assisted semantic guidance for robust detection.
 
