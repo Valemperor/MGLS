@@ -9,6 +9,7 @@ Authors: `<Jianwei Xu>, <Haizhou Wang>`
 ## News
 
 - [2026.03] Official repository released.
+- Our code and dataset are currently being organized and will be released soon.
 
 ## Overview
 ![Framework](1.jpg)
@@ -53,3 +54,6 @@ If you have any questions, please contact:
 
 - `<Jianwei Xu>`
 - `<2022141410250@stu.scu.edu.cn>`
+
+
+
